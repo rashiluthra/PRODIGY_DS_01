@@ -51,10 +51,6 @@ This project presents a comprehensive and visually engaging **Power BI dashboard
 2. Interact with the visuals using filters and slicers to explore specific countries or time ranges.
 3. Use this dashboard for insights, reports, or policy-related decisions on demographic trends.
 
-## **Preview**
-
-![Global Population Dashboard](Dashboard%20\(2\).png)
-
 ## **Data Source**
 
 * [World Bank Open Data – Population](https://data.worldbank.org/indicator/SP.POP.TOTL)
