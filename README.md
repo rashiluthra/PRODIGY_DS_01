@@ -17,7 +17,7 @@ This project presents a comprehensive and visually engaging **Power BI dashboard
 * **Total Coverage**:
 
   * **265 Countries**
-  * **64 Years of Data **
+  * **64 Years of Data**
 
 * **Global Statistics** (2023):
 
@@ -42,7 +42,7 @@ This project presents a comprehensive and visually engaging **Power BI dashboard
 ## **Tools & Technologies**
 
 * **Power BI** – for dashboard design and visualization
-* **DAX**
+* **DAX** - For calculated measures and KPIs
 * **World Bank Dataset** – as the primary source of population data
 
 ## **How to Use**
